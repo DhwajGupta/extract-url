@@ -1,5 +1,5 @@
 {
-  "name": "extract-url",
+  "name": "url-extractor",
   "version": "1.0.0",
   "description": "This package will help you extract urls from text",
   "main": "index.js",
