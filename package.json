@@ -1,0 +1,21 @@
+{
+  "name": "extract-url",
+  "version": "1.0.0",
+  "description": "This package will help you extract urls from text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "extract",
+    "url",
+    "regex",
+    "http",
+    "https"
+  ],
+  "author": "Dhwaj Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "url-regex": "^5.0.0"
+  }
+}
